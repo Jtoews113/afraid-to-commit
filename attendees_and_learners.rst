@@ -261,6 +261,10 @@ PyCon UK in Coventry, 22nd September 2013
 * Karim Lameer https://github.com/klameer
 * John Medley <john.medley@zephirlidar.com>
 
+Dutch Django Association Sprint in Amsterdam, 22nd February 2014
+----------------------------------------------------------------
+* Stomme Poes
+
 DjangoCon US in Chicago, 2nd September 2013
 -------------------------------------------
 
@@ -270,12 +274,14 @@ DjangoCon US in Chicago, 2nd September 2013
 * Ernesto Rodriguez <ernesto@tryolabs.com> https://github.com/ernestorx @ernestorx
 * Jason Blum
 * Hayssam Hajar <hayssam.hajar@gmail.com>  github: hhajar
+* Miss Piggy
+* Kermit the Frog
 
 Cardiff Dev Workshop, 8th June 2013
 -----------------------------------
 
-* Daniel Pass <daniel.antony.pass@googlemail.com>
-* Kieran Moore
+* Kermit the Frog
+* Miss Piggy
 * Dale Bradley
 * Howard Dickins <hdickins@gmail.com> https://github.com/hdickins
 * Robert Dragan https://github.com/rmdragan
@@ -363,3 +369,4 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
+* Gonzo
